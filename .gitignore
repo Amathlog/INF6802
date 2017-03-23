@@ -1,0 +1,16 @@
+# VS files
+.vs
+*.csproj
+*.sln
+
+# Builds
+*.apk
+bin/
+
+# Unity
+Library/
+"Assets/Standard Assets/"
+"Assets/Plugins/Android/Assets/"
+"Assets/SteamVR/"
+"Assets/VRSampleScenes/"
+"Assets/VRStandardAssets/"
